@@ -1,0 +1,104 @@
+let myInfo = {
+   username:"pooja_123",
+   profilePic:"https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+   post:45,
+   followers:265,
+   following:453,
+   name:"Pooja Sharma",
+   Bio:"I am a engineering Student",
+   savedStatus:[
+      {
+         statusName:"Songs",
+         status:[
+            "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg ",
+            "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_640.jpg ",
+            "https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_640.jpg ",
+            "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_640.jpg "
+         ]
+      },
+      {
+         statusName:"sketch",
+         status:[
+            "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954_640.jpg",
+            "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_640.jpg",
+            "https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_640.jpg"
+         ]
+      },
+      {
+        statusName:"sketch",
+        status:[
+           "https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228_640.jpg",
+           "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_640.jpg",
+           "https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079_640.jpg",
+           "https://cdn.pixabay.com/photo/2017/12/10/20/56/feather-3010848_640.jpg",
+           "https://cdn.pixabay.com/photo/2018/02/08/22/27/flower-3140492_640.jpg"
+        ]
+      }
+   ],
+   posts:[
+       {
+          postImages:[
+            "https://cdn.pixabay.com/photo/2013/08/20/15/47/poppies-174276_640.jpg",
+            "https://cdn.pixabay.com/photo/2018/04/16/16/16/sunset-3325080_640.jpg",
+          ]
+       },
+       {
+        postImages:[
+          "https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_640.jpg",
+          "https://cdn.pixabay.com/photo/2014/08/15/11/29/beach-418742_640.jpg",
+        ]
+     },       
+     {
+        postImages:[
+          "https://cdn.pixabay.com/photo/2013/08/20/15/47/poppies-174276_640.jpg",
+          "https://cdn.pixabay.com/photo/2015/01/28/23/35/hills-615429_640.jpg",
+        ]
+     },      
+     {
+        postImages:[
+          "https://cdn.pixabay.com/photo/2015/01/28/23/35/hills-615429_640.jpg",
+          "https://cdn.pixabay.com/photo/2016/10/22/17/46/mountains-1761292_640.jpg",
+        ]
+     },       
+     {
+        postImages:[
+          "https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_640.jpg",
+          "https://cdn.pixabay.com/photo/2016/09/21/04/46/barley-field-1684052_640.jpg",
+        ]
+     },
+     {
+        postImages:[
+            "https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_640.jpg",
+            "https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326_640.jpg",
+        ]
+     },
+     {
+         postImages:[
+            "https://cdn.pixabay.com/photo/2018/08/21/23/29/forest-3622519_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/06/19/20/13/sunset-815270_640.jpg",
+         ]
+     },
+     {
+         postImages:[
+            "https://cdn.pixabay.com/photo/2016/03/27/22/22/fox-1284512_640.jpg",
+            "https://cdn.pixabay.com/photo/2015/04/23/22/01/mountains-736886_640.jpg",
+         ]
+     },     
+     {
+        postImages:[
+           "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_640.jpg",
+           "https://cdn.pixabay.com/photo/2017/01/19/23/46/church-1993645_640.jpg",
+        ]
+    },     
+    {
+        postImages:[
+           "https://cdn.pixabay.com/photo/2017/10/10/07/48/hills-2836301_640.jpg",
+           "https://cdn.pixabay.com/photo/2016/03/27/22/22/fox-1284512_640.jpg",
+        ]
+    }
+   ]
+}
+
+export {myInfo}
